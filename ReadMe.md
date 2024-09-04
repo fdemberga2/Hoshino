@@ -1,5 +1,6 @@
-# Current Working Title: UNDERSTANDING MRT-3 RIDERSHIP PREDICTIONS: A HYBRID MODEL APPROACH TO TIME-SERIES FORECASTING WITH EXPLAINABLE AI (XAI)
+# Current Working Title: 
+Understanding MRT-3 Ridership Predictions: A Hybrid Model Approach to Time-Series Forecasting with Explainable AI (XAI)
 
 ## Description: 
-A Hybrid Model that predicts ridership volume of MRT Stations with Explainable AI
+A Hybrid Model that Predicts Ridership Volume of MRT Stations with Explainable AI
 
